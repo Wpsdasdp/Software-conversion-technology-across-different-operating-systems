@@ -1,4 +1,6 @@
 # Software-conversion-technology-across-different-operating-systems
+7.1：
+
 首先我们先从最简单的开始，目前的任务就是
 1.Ubuntu32位的c程序到Ubuntu64位的c程序的互转
 2.Ubuntu64位的c程序到windows下的互转
